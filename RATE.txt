@@ -1,7 +1,3 @@
-
-
-ITEM 				          RATE			QUANTITY(availability)
-
 INDIA GATE Basmati Rice			Rs 77/kg		100kg
 GOLDEN HARVEST Basmati Rice		Rs 100/kg		100kg
 Baskati Rice Supreme Boiled		Rs 43/kg		100kg
