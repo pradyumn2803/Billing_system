@@ -1,0 +1,104 @@
+ITEM 				          RATE			QUANTITY(availability)
+
+INDIA GATE Basmati Rice			Rs 77/kg		100kg
+GOLDEN HARVEST Basmati Rice		Rs 100/kg		100kg
+Baskati Rice Supreme Boiled		Rs 43/kg		100kg
+
+AASHIRVAAD Whole Wheat Atta		Rs 35/kg		150kg
+Sampoorna Whole Wheat Atta		Rs 64/kg		150kg
+
+Masoor Dal Premium			Rs 125/kg		100kg
+GOLDEN HARVEST Urad Dal			Rs 151/kg		100kg
+Chana Dal Premium			Rs 91/kg		100kg
+Moong Dal Premium			Rs 118/kg		100kg
+Good Life Toor Dal			Rs 184/kg		100kg
+
+TATA Iodised Salt			Rs 27/kg		50kg
+
+
+Good Life Sugar Medium			Rs 47/kg		50kg
+TRUST Sugar Mishri Dana			Rs 25/kg		50kg
+
+GOLDEN HARVEST Besan			Rs 100/kg		50kg
+
+GOLDEN HARVEST Suji			Rs 50/kg		50kg
+
+Amul Butter				Rs 590/kg		10kg
+Amul Plain Cheese Spread		Rs 450/kg		10kg
+Patanjali Honey				Rs 350/kg		10kg
+Dabur Honey				Rs 370/kg		10kg
+
+Nescafe Instant Coffee			Rs 2650/kg		5kg
+BRU Instant Coffee			Rs 1975/kg		5kg
+
+TATA TEA Premimum Tea			Rs 460/kg		10kg
+RED LABEL Leaf Tea			Rs 430/kg		10kg
+TAJ MAHAL Leaf Tea			Rs 620/kg		10kg
+Lipton Green Tea Leaf			Rs 1500/kg		5kg
+Lipton Lemon Honey Green Tea Bag	Rs 8			1000pcs
+
+KARMIQ Cashew Nuts			Rs 960/kg		5kg
+KARMIQ Walnuts				Rs 810/kg		5kg
+KARMIQ Raisin Indian			Rs 540/kg		5kg
+NUTRAJ CALIFORNIA Almonds		Rs 940/kg		5kg
+
+Gowardhan Cow Ghee			Rs 579/L		30L
+PATANJALI Cow Ghee			Rs 565/L		30L
+
+Fortune Sunflower Oil			Rs 165/L		30L
+Sundrop Superlite Sunflower Oil		Rs 206/L		30L
+Fortune Kachi Ghani Mustard Oil		Rs 193/L		30L
+DHARA Kachi Ghani Mustard Oil		Rs 198/L		30L
+Borges Olive Oil			Rs 849/L		30L
+Fortune Ricebran Oil Health		Rs 184/L		30L
+Fortune Soyabean Oil			Rs 165/L		30L
+
+Coconut Hair Oil			Rs 300/L		10L
+Bajaj Almond Hair Oil			Rs 550/L		10L
+
+Dettol Soap 				Rs 42			300packs
+Pears Soap Pure & Gentle		Rs 42			500packs
+Dove Soap				Rs 56			500packs
+
+Dettol Handwash 			Rs 210			100packs
+SANTOOR Handwash			Rs 189			100packs
+Lifebuoy Handwash			Rs 199			100packs
+
+Dove Shampoo				Rs 350			100bottles
+Clinic Plus Shampoo			Rs 478			100bottles
+head & shoulders Antidandruff Shampoo 	Rs 440			100bottles
+sunsilk Shampoo 			Rs 411			100bottles
+
+NIVEA Moisturising Skin Cream		Rs 207	 		100bottles
+Ponds Moisturising Skin Cream 		Rs 280			100bottles
+GARNIER Skin Cream 			Rs 260			100bottles
+
+NIVEA Body Lotion			Rs 248			100bottles
+Vaseline Body Lotion			Rs 204			100bottles
+
+GARNIER Facewash			Rs 195			100packs
+Ponds Facewash 				Rs 253			100packs
+NIVEA Facewash 				Rs 175			100packs
+
+Ponds Talcum Powder			Rs 360			100packs
+NIVEA Talcum Powder			Rs 175			100packs
+
+PARK AVENUE Deo				Rs 329			100bottles
+WILD STONE Deo				Rs 291			100bottles
+NIVEA Deo				Rs 331			100bottles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
