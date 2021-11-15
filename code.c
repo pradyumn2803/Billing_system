@@ -85,6 +85,6 @@ int main()
         printf("Enter choice : ");
         scanf("%d", &choice);
     }
-    printf("Thank You For visiting our market....Have a nice day");
+    printf("Thank You For visiting our market....\nHave a nice day");
     return 0;
 }
